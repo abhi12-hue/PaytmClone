@@ -1,4 +1,7 @@
 - Clone the repo
+- or
+- dowload the zip file directly
+- 
 
 ```jsx
 git clone https://github.com/100xdevs-cohort-2/week-17-final-code
